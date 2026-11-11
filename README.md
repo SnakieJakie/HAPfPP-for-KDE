@@ -28,6 +28,14 @@ Note, some of these don't contain literally every PFP from the game page or what
   
 [Sourced Here](https://steamcommunity.com/games/L4D/Avatar/)
 
+### Windows XP
+- All of the default icons
+
+### Disney+
+I'm not going to add every icon from Disney+ here. I know there was a archive of them on Archive.org but it got taken down. If Disney is that aggressive about just icons, I'm fucked if if I try to do it. I only added 2 I liked.
+- Oswald
+- Mickey
+
 If you're wondering how you download Steam profile pics, most of the time you can just type "steam change avatar "GAME NAME" and it will bring up a page for it. 
 
 This is a joke repo btw. 
