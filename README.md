@@ -1,5 +1,6 @@
 # HAPfPP-for-KDE
 Huge Ass Repo For Profile Pics for KDE
+(The R is a P for some reason)
 
 ![Preview.](https://raw.githubusercontent.com/SnakieJakie/HAPfPP-for-KDE/refs/heads/main/imgs/ReadMePic.png)
 
